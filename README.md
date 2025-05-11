@@ -1,6 +1,7 @@
 # **Aurigo Elevate** 
 
 Aurigo Elevate is a comprehensive project management and bidding optimization platform developed during the **Prayan Hackathon**. The system leverages machine learning and full-stack technologies to streamline construction project forecasting, vendor matching, and community feedback.
+
 ---
 
 ## **Tech Stack**
