@@ -29,13 +29,16 @@ Aurigo Elevate is a comprehensive project management and bidding optimization pl
 
 ## **Installation**
 
-Follow these steps to install and run each project locally:
+Follow these steps to install and run each project locally (also make sure you have OLlama installed and working):
 
 1. **Install the necessary packages in both frontend and backend directories**:
    ```bash
    npm i
-2. **To run the client in the frontend directory and server in the backend directory**:
+2. **To run the client in the frontend directory**:
    ```bash
    npm run dev
-3. **Open your browser and navigate to http://localhost:3000**
+3. **To run the server in the backend directory**:
+   ```bash
+   node index.js
+4. **Open your browser and navigate to http://localhost:5173**
 
